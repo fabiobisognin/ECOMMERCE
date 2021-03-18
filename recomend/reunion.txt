@@ -1,0 +1,23 @@
+reunion con brisa
+
+crear un sistema donde con la  información del cluster y el sistema de recomdendación
+cual es la probabilidad de incrimentar la venta
+crear factores  para saber si yo incremento la venta que pasa en el modelo
+
+calcular la lealtad por cluster
+	churn rate
+
+
+
+hacer cluster de cliente por otras caracteristicas
+donde es
+cuanto gasta
+como paga 
+cuantas cuotas
+ticket y transacccion
+
+hay que hacer features  y estandarizar el ticket
+buscar clustering mix data
+
+
+una vez que hagas los cluster hacer una tabla donde puedas ver si son diferentes y cuales son las caracteristicas más relevantes
